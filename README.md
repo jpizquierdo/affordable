@@ -1,1 +1,2 @@
 Una API simple para calcular si te puedes permitir adquirir una vivienda o no, orientado al mercado español.
+Puedes montarlo tu mismo o usarla gratis en este [enlace](https://affordable-vpyk9xmw.b4a.run/docs#/default/mortgage_calculator_mortgage_get)
