@@ -1,0 +1,1 @@
+Una API simple para calcular si te puedes permitir adquirir una vivienda o no, orientado al mercado español.
