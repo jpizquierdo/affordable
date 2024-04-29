@@ -33,8 +33,8 @@ async def mortgage_calculator(
     Method to calculate the cost of a house
     """
     if second_hand:
-        if main_house:
-            ITP = housing_price * 0.04
+        if main_house and housing_price <= 250000:
+            ITP = housing_price * 0.06 * 0.90
         else:
             ITP = housing_price * 0.06
     else:
